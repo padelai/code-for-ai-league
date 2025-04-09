@@ -1,0 +1,41 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+*.egg-info/
+*.egg
+.eggs/
+.env*
+.venv
+venv/
+.pytest_cache/
+.coverage
+coverage.xml
+htmlcov/
+
+# Development/IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+.DS_Store
+
+# Git
+.git/
+.gitignore
+
+# Build
+dist/
+build/
+
+# Docker
+Dockerfile
+.dockerignore
+
+# Project specific
+tests/
+docs/
+.ruff_cache/
+.mypy_cache/
